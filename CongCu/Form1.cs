@@ -16,7 +16,7 @@ namespace CongCu
         {
             InitializeComponent();
         }
-        public void ban()
+        public void b()
         {
             
         }
