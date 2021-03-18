@@ -20,5 +20,9 @@ namespace CongCu
         {
             
         }
+        public void Phuocfunc()
+        {
+
+        }
     }
 }
